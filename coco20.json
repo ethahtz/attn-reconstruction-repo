@@ -1,0 +1,128 @@
+{
+  "source": "phiyodr/coco2017",
+  "split": "validation",
+  "population": 5000,
+  "seed": 0,
+  "images": [
+    {
+      "row": 3155,
+      "image_id": 449603,
+      "url": "http://images.cocodataset.org/val2017/000000449603.jpg",
+      "license": 1
+    },
+    {
+      "row": 3445,
+      "image_id": 565776,
+      "url": "http://images.cocodataset.org/val2017/000000565776.jpg",
+      "license": 4
+    },
+    {
+      "row": 331,
+      "image_id": 226903,
+      "url": "http://images.cocodataset.org/val2017/000000226903.jpg",
+      "license": 1
+    },
+    {
+      "row": 2121,
+      "image_id": 480936,
+      "url": "http://images.cocodataset.org/val2017/000000480936.jpg",
+      "license": 4
+    },
+    {
+      "row": 4188,
+      "image_id": 276018,
+      "url": "http://images.cocodataset.org/val2017/000000276018.jpg",
+      "license": 1
+    },
+    {
+      "row": 3980,
+      "image_id": 80153,
+      "url": "http://images.cocodataset.org/val2017/000000080153.jpg",
+      "license": 4
+    },
+    {
+      "row": 3317,
+      "image_id": 5600,
+      "url": "http://images.cocodataset.org/val2017/000000005600.jpg",
+      "license": 3
+    },
+    {
+      "row": 2484,
+      "image_id": 52591,
+      "url": "http://images.cocodataset.org/val2017/000000052591.jpg",
+      "license": 1
+    },
+    {
+      "row": 3904,
+      "image_id": 556000,
+      "url": "http://images.cocodataset.org/val2017/000000556000.jpg",
+      "license": 5
+    },
+    {
+      "row": 2933,
+      "image_id": 295809,
+      "url": "http://images.cocodataset.org/val2017/000000295809.jpg",
+      "license": 3
+    },
+    {
+      "row": 4779,
+      "image_id": 557884,
+      "url": "http://images.cocodataset.org/val2017/000000557884.jpg",
+      "license": 1
+    },
+    {
+      "row": 1789,
+      "image_id": 289992,
+      "url": "http://images.cocodataset.org/val2017/000000289992.jpg",
+      "license": 6
+    },
+    {
+      "row": 4134,
+      "image_id": 217872,
+      "url": "http://images.cocodataset.org/val2017/000000217872.jpg",
+      "license": 1
+    },
+    {
+      "row": 1140,
+      "image_id": 173057,
+      "url": "http://images.cocodataset.org/val2017/000000173057.jpg",
+      "license": 3
+    },
+    {
+      "row": 2308,
+      "image_id": 209222,
+      "url": "http://images.cocodataset.org/val2017/000000209222.jpg",
+      "license": 1
+    },
+    {
+      "row": 1144,
+      "image_id": 228214,
+      "url": "http://images.cocodataset.org/val2017/000000228214.jpg",
+      "license": 3
+    },
+    {
+      "row": 776,
+      "image_id": 420916,
+      "url": "http://images.cocodataset.org/val2017/000000420916.jpg",
+      "license": 5
+    },
+    {
+      "row": 2052,
+      "image_id": 102331,
+      "url": "http://images.cocodataset.org/val2017/000000102331.jpg",
+      "license": 1
+    },
+    {
+      "row": 4362,
+      "image_id": 213033,
+      "url": "http://images.cocodataset.org/val2017/000000213033.jpg",
+      "license": 4
+    },
+    {
+      "row": 4930,
+      "image_id": 195165,
+      "url": "http://images.cocodataset.org/val2017/000000195165.jpg",
+      "license": 2
+    }
+  ]
+}
